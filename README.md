@@ -1,2 +1,0 @@
-# CSC254
-projects
